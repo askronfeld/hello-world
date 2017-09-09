@@ -1,2 +1,3 @@
 # hello-world
-can i haz github
+
+Could I learn to use github without going crazy?
